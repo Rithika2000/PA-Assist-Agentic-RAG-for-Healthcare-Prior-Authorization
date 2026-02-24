@@ -216,13 +216,14 @@ All patient data is fully synthetic (Synthea).
 ## Author
 
 Built by **Rithika Gurram**
+
 [![LinkedIn](https://www.linkedin.com/in/gurram-rithika/)]
 
 ---
 
 
 
-## 🐢 Step 4 — Create requirements.txt
+## Step 4 — Create requirements.txt
 
 Open `requirements.txt` and paste:
 
