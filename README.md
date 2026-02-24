@@ -23,7 +23,6 @@ purposes only.**
 
 ---
 
-# 🏥 PA-Assist: Prior Authorization RAG Agent
 ### Automating Healthcare's $350B Administrative Problem
 
 > An agentic RAG system that generates evidence-backed 
