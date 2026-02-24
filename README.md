@@ -1,28 +1,5 @@
 # PA-Assist-Agentic-RAG-for-Healthcare-Prior-Authorization
 
----
-
-## ⚠️ Disclaimer
-
-This project is built for **educational and portfolio 
-purposes only.**
-
-- NOT intended for real clinical use
-- NOT a substitute for medical advice
-- NOT approved for actual prior authorization decisions
-- NOT validated for production healthcare environments
-- All patient data is 100% synthetic (Synthea)
-- No real PHI was used at any point
-- Payer policies used are publicly available documents
-
-> Any resemblance to real patients is purely coincidental.
-> Always consult a licensed healthcare professional for 
-> medical decisions. Prior authorization decisions should 
-> always be made by qualified medical and administrative 
-> professionals.
-
----
-
 ### Automating Healthcare's $350B Administrative Problem
 
 > An agentic RAG system that generates evidence-backed 
@@ -238,38 +215,17 @@ All patient data is fully synthetic (Synthea).
 
 ## Author
 
-Built by **[Your Name]**
-
-Open to AI/ML Engineering roles in Healthcare AI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+Built by **Rithika Gurram**
+[![LinkedIn](https://www.linkedin.com/in/gurram-rithika/)
 
 ---
 
-## 📄 License
 
-MIT License — free to use and modify
-```
-
----
-
-## 🐢 Step 3 — Update Your Details
-
-Find and replace these 3 things:
-```
-YOUR_USERNAME  → your GitHub username
-YOUR_PROFILE   → your LinkedIn profile URL
-[Your Name]    → your actual name
-```
-
-Press **`Cmd + S`**
-
----
 
 ## 🐢 Step 4 — Create requirements.txt
 
 Open `requirements.txt` and paste:
+
 ```
 langchain
 langchain-community
@@ -286,11 +242,10 @@ pandas
 openpyxl
 ```
 
-Press **`Cmd + S`**
-
 ---
 
 ## Your Repo Is Now Complete
+
 ```
 pa-assist/
 ├── ingest.py          
