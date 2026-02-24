@@ -1,12 +1,8 @@
 # PA-Assist-Agentic-RAG-for-Healthcare-Prior-Authorization
 
-### Automating Healthcare's $350B Administrative Problem
-
 > An agentic RAG system that generates evidence-backed 
 > Prior Authorization letters in minutes by retrieving 
-> payer-specific policies and clinical guidelines —
-> the same workflow being deployed at UnitedHealth, 
-> Aetna and Cigna.
+> payer-specific policies and clinical guidelines.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Ollama](https://img.shields.io/badge/LLM-Llama3.2-green)
@@ -30,7 +26,7 @@ Each one requires:
 - Writing a formal justification letter
 - Waiting days for approval decisions
 
-This costs the US healthcare system **$350B annually**
+This costs the US healthcare system approx **$350B annually**
 in administrative overhead.
 
 **PA-Assist solves this in minutes, not days.**
