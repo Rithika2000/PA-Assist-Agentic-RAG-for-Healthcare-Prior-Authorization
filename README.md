@@ -1,4 +1,4 @@
-# PA-Assist-Agentic-RAG-for-Healthcare-Prior-Authorization
+# PA-Assist: AgenticRAG for Healthcare Prior Authorization
 
 > An agentic RAG system that generates evidence-backed 
 > Prior Authorization letters in minutes by retrieving 
