@@ -1,0 +1,51 @@
+[Today's Date]
+
+To:
+UnitedHealthcare Prior Authorization Department
+
+From:
+Treating Physician
+[Treating Physician's Name]
+[Treating Physician's Title]
+[Hospital/Clinic Name]
+[Hospital/Clinic Address]
+
+Re: Prior Authorization Request for HbA1c Blood Test (CPT 83036)
+
+Patient Information:
+
+* Patient Name: Bob Johnson
+* Date of Birth: [Not provided]
+* Diagnosis: Type 2 Diabetes Mellitus
+
+Procedure Requested:
+
+* Procedure Name: HbA1c Blood Test
+* CPT/HCPCS Code: 83036
+
+Clinical Indication:
+
+Mr. Johnson has been under our care for the management of his Type 2 Diabetes Mellitus. His last HbA1c level was 10.1% three months ago, indicating a need for ongoing monitoring to ensure control of his blood glucose levels. As per our clinical guidelines, Mr. Johnson requires regular HbA1c monitoring every 3 months to adjust his medication regimen and prevent any potential complications.
+
+Medical Necessity Justification:
+
+The American Diabetes Association (ADA) recommends that patients with Type 2 Diabetes Mellitus undergo regular HbA1c testing every 3 months to assess the effectiveness of their treatment plan and make necessary adjustments. According to Section 1: The basics, page 15 of the retrieved policy document, "Hemoglobin A1C tests measure how well your blood glucose (sugar) has been controlled over the past 3 months." (Section 1: The Basics, page 15)
+
+Medicare beneficiaries who are eligible for the Multi-Component Diabetes Prevention Program (MDPP) also require regular HbA1c testing as part of their comprehensive care plan. The MDPP is a one-year-long program that consists of 16 weekly sessions over a six-month period, followed by at least 6 monthly sessions over the next six-month period. As stated in Section 4: Program Description, "The MDPP is based on the evidence-based National Diabetes Prevention Program." (Section 4: Program Description)
+
+Payer Criteria Met:
+
+* The patient has a diagnosis of Type 2 Diabetes Mellitus (Section 1: The Basics, page 15).
+* The patient's last HbA1c level was 10.1% three months ago, which indicates the need for ongoing monitoring.
+
+Supporting Evidence:
+
+* Section 1: The basics, page 15 - Hemoglobin A1C tests
+* Section 4: Program Description - Multi-Component Diabetes Prevention Program (MDPP)
+
+Provider Attestation:
+
+I, [Treating Physician's Name], hereby attest that the information provided in this prior authorization request is accurate and true to the best of my knowledge. I have reviewed Mr. Johnson's medical history and current condition, and I believe that the requested HbA1c Blood Test (CPT 83036) is medically necessary for his care.
+
+Signature: _____________________________
+Date: __________________________________

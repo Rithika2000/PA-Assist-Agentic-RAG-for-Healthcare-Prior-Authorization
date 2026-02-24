@@ -1,0 +1,125 @@
+{
+  "faithfulness": 1.0,
+  "answer_relevancy": 1.0,
+  "test_cases": 5,
+  "model": "llama3.2",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "evaluation_method": "manual_criteria_based",
+  "detailed_results": [
+    {
+      "test_case": 1,
+      "procedure": "Continuous Glucose Monitor CGM",
+      "payer": "Medicare",
+      "faithfulness": 1.0,
+      "relevancy": 1.0,
+      "details": {
+        "faithfulness": {
+          "contains_procedure_code": true,
+          "cites_policy_source": true,
+          "cites_guidelines": true,
+          "contains_patient_info": true,
+          "has_medical_necessity": true
+        },
+        "relevancy": {
+          "has_all_sections": true,
+          "mentions_procedure": true,
+          "mentions_payer": true,
+          "has_attestation": true,
+          "has_diagnosis": true
+        }
+      }
+    },
+    {
+      "test_case": 2,
+      "procedure": "Insulin Pump Therapy",
+      "payer": "Medicaid",
+      "faithfulness": 1.0,
+      "relevancy": 1.0,
+      "details": {
+        "faithfulness": {
+          "contains_procedure_code": true,
+          "cites_policy_source": true,
+          "cites_guidelines": true,
+          "contains_patient_info": true,
+          "has_medical_necessity": true
+        },
+        "relevancy": {
+          "has_all_sections": true,
+          "mentions_procedure": true,
+          "mentions_payer": true,
+          "has_attestation": true,
+          "has_diagnosis": true
+        }
+      }
+    },
+    {
+      "test_case": 3,
+      "procedure": "HbA1c Blood Test",
+      "payer": "UnitedHealthcare",
+      "faithfulness": 1.0,
+      "relevancy": 1.0,
+      "details": {
+        "faithfulness": {
+          "contains_procedure_code": true,
+          "cites_policy_source": true,
+          "cites_guidelines": true,
+          "contains_patient_info": true,
+          "has_medical_necessity": true
+        },
+        "relevancy": {
+          "has_all_sections": true,
+          "mentions_procedure": true,
+          "mentions_payer": true,
+          "has_attestation": true,
+          "has_diagnosis": true
+        }
+      }
+    },
+    {
+      "test_case": 4,
+      "procedure": "Continuous Glucose Monitor CGM",
+      "payer": "Aetna",
+      "faithfulness": 1.0,
+      "relevancy": 1.0,
+      "details": {
+        "faithfulness": {
+          "contains_procedure_code": true,
+          "cites_policy_source": true,
+          "cites_guidelines": true,
+          "contains_patient_info": true,
+          "has_medical_necessity": true
+        },
+        "relevancy": {
+          "has_all_sections": true,
+          "mentions_procedure": true,
+          "mentions_payer": true,
+          "has_attestation": true,
+          "has_diagnosis": true
+        }
+      }
+    },
+    {
+      "test_case": 5,
+      "procedure": "Insulin Pump Therapy",
+      "payer": "Medicare",
+      "faithfulness": 1.0,
+      "relevancy": 1.0,
+      "details": {
+        "faithfulness": {
+          "contains_procedure_code": true,
+          "cites_policy_source": true,
+          "cites_guidelines": true,
+          "contains_patient_info": true,
+          "has_medical_necessity": true
+        },
+        "relevancy": {
+          "has_all_sections": true,
+          "mentions_procedure": true,
+          "mentions_payer": true,
+          "has_attestation": true,
+          "has_diagnosis": true
+        }
+      }
+    }
+  ]
+}
