@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/4751a343-cec3-48fe-b9b5-11aaff95c6db
 
 ## Problem
 
-Physicians handle **43 prior authorizations weekly.**
+Physicians handle around **40 prior authorizations weekly.**
 Each one requires:
 - Manually searching payer-specific policy documents
 - Cross-referencing clinical guidelines
