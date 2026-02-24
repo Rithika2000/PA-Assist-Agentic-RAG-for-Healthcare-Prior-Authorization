@@ -1,5 +1,5 @@
 # app.py
-# This is the website UI for your PA Agent
+# This is the website UI for PA Agent
 # Run with: streamlit run app.py
 
 import streamlit as st
