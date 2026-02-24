@@ -37,7 +37,6 @@ purposes only.**
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-yellow)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
 ![HIPAA](https://img.shields.io/badge/Design-HIPAA_Conscious-purple)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
