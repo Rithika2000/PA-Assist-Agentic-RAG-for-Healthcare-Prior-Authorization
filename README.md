@@ -217,7 +217,7 @@ All patient data is fully synthetic (Synthea).
 
 Built by **Rithika Gurram**
 
-[![LinkedIn](https://www.linkedin.com/in/gurram-rithika/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gurram-rithika/)
 
 ---
 
