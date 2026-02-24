@@ -19,9 +19,9 @@
 
 ## 🎥 Demo
 
-## 🎥 Demo
+[![PA-Assist Demo](https://cdn.loom.com/sessions/thumbnails/20224d1d395843d09d20b523a96a0caa-with-play.gif)](https://www.loom.com/share/20224d1d395843d09d20b523a96a0caa)
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=loom)](https://www.loom.com/share/20224d1d395843d09d20b523a96a0caa)
+> Click the image above to watch the demo
 
 ---
 
