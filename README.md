@@ -20,7 +20,7 @@
 ## 🎥 Demo
 
 > Add your demo GIF here after recording
-> ![Demo](assets/demo.gif)
+> ![Demo](assets/demo.gif)[https://www.loom.com/share/20224d1d395843d09d20b523a96a0caa]
 
 ---
 
