@@ -238,7 +238,7 @@ openpyxl
 
 ---
 
-## Your Repo Is Now Complete
+## Repo Is Now Complete
 
 ```
 pa-assist/
