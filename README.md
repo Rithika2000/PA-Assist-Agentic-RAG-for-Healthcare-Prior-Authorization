@@ -1,5 +1,28 @@
 # PA-Assist-Agentic-RAG-for-Healthcare-Prior-Authorization
 
+---
+
+## ⚠️ Disclaimer
+
+This project is built for **educational and portfolio 
+purposes only.**
+
+- NOT intended for real clinical use
+- NOT a substitute for medical advice
+- NOT approved for actual prior authorization decisions
+- NOT validated for production healthcare environments
+- All patient data is 100% synthetic (Synthea)
+- No real PHI was used at any point
+- Payer policies used are publicly available documents
+
+> Any resemblance to real patients is purely coincidental.
+> Always consult a licensed healthcare professional for 
+> medical decisions. Prior authorization decisions should 
+> always be made by qualified medical and administrative 
+> professionals.
+
+---
+
 # 🏥 PA-Assist: Prior Authorization RAG Agent
 ### Automating Healthcare's $350B Administrative Problem
 
