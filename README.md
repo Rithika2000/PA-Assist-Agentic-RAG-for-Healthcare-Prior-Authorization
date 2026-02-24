@@ -17,11 +17,7 @@
 
 ---
 
-## 🎥 Demo
-
-[![PA-Assist Demo](https://cdn.loom.com/sessions/thumbnails/20224d1d395843d09d20b523a96a0caa-with-play.gif)](https://www.loom.com/share/20224d1d395843d09d20b523a96a0caa)
-
-> Click the image above to watch the demo
+**[Click Here to Watch Demo](https://www.loom.com/share/20224d1d395843d09d20b523a96a0caa)**
 
 ---
 
