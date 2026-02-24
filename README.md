@@ -19,7 +19,9 @@
 
 ## 🎥 Demo
 
-> ![Demo](https://www.loom.com/share/20224d1d395843d09d20b523a96a0caa)
+## 🎥 Demo
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=loom)](https://www.loom.com/share/20224d1d395843d09d20b523a96a0caa)
 
 ---
 
